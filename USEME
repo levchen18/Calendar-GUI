@@ -1,0 +1,29 @@
+This is direction on how to use our GUI:
+
+Our GUI will ask users for information regarding the events and users will input it based
+on what is asked.
+
+Entering information: Users will enter the information of the events within the text boxes.
+They will enter event name, start DateTime, end DateTime, Location, and Description for that event.
+- There is a check box for all day event, if user click on it the event will be set from 8am to 5pm
+
+Users can also have the selection of selecting the status of the event to see if the event should be private or public.
+The status is chosen as a drop down selection.
+
+After an event is created, a message will be displayed regarding if the event was created successfully or not.
+If not, an error will get displayed in red.
+
+When events are created, users can view the events on that day by clicking on view schedule. This
+allows the users to view the events on that day. The user can change the day they want to view in "Select Date to View".
+By changing the date to view users can see dates on certain days. If no events are happening that day, it will say
+no events on that day.
+
+Users can create more then one calendar within this program by clicking on the plus symbol on the top right corner.
+This will ask users for a new calendar name, time zone, and other information. After mulitple calendars are crated, the
+user can use the drop down selection on the left of the + symbol to select the different calendars.
+
+Users are also able to edit the calendar. The event information will be displayed on the white box on the bottom. Users
+will click on the event they want to edit and manual change the information within the textbox. After changes are made, users will
+click on the save button to save the changes. Users should be able to the same things in the other calendar as well.
+
+See the image in the res file to understand the program more. :)
